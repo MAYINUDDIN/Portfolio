@@ -44,16 +44,17 @@ p{
     border-radius: 5px;
     background-color: rgb(238, 103, 79);
 }
-.scroll{
-    font-size: 18px;
-    color: black;
-    margin-top: 6%;
-}
 a:hover {
     color: rgb(243, 241, 241);
     background-color: green;
  
   }
+.scroll{
+    font-size: 18px;
+    color: black;
+    margin-top: 6%;
+}
+
 .image-right{
     width: 50%;
 }  
@@ -64,8 +65,155 @@ a:hover {
     padding-top: 3%;
 }
 
+.mission-sec{
+    margin-bottom: 80px;
+}
+
 .mission_title{
     font-size: 60px;
     text-align: center;
 }
 
+.mission{
+    width: 30%;
+    margin-right: 3%;
+    background-color: rgb(248, 246, 246);
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.mission img{
+   width: 50%;
+}
+h2{
+font-size: 30px;
+padding-left: 6%;
+}
+.mission p{
+    padding-left: 6%;   
+    font-size: 16px;
+}
+
+.vission{
+    width: 30%;
+    background-color: #ffe6e6;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-right: 3%;
+}
+.vission img{
+    width: 50%;
+ }
+ .vission p{
+    padding-left: 6%;
+    font-size: 16px;   
+}
+.goals{
+    width: 30%;
+    background-color: 	 #ccffff;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-right: 4%;
+}
+.goals img{
+    width: 50%;
+ }
+ .goals p{
+    padding-left: 6%;  
+    font-size: 16px; 
+}
+.coding-sec{
+ margin-bottom: 100px;
+}
+.coding{
+    width: 50%;
+    
+}
+.coding img{
+    width: 80%;
+    
+}
+.develop{
+
+    width: 80%;
+}
+
+.develop h1{
+
+    font-size: 45px;
+}
+.develop p{
+
+    font-size: 18px;
+    padding-right: 120px;
+}
+.develop a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 13px 45px;
+    border-radius: 5px;
+    background-color: rgb(238, 103, 79);
+    
+}
+.develop a:hover {
+    color: rgb(243, 241, 241);
+    background-color: green;
+ 
+  }
+
+  .global{
+
+    width: 65%;
+  }
+  .global h1{
+    font-size: 45px;
+
+  }
+  .global p{
+
+    font-size: 18px;
+    padding-right: 15%;
+  }
+  .global a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 13px 45px;
+    border-radius: 5px;
+    background-color: rgb(238, 103, 79);
+    
+}
+.global a:hover {
+    color: rgb(243, 241, 241);
+    background-color: green;
+ 
+  }
+  .global-img{
+
+    width: 40%;
+  }
+  .global-img img{
+
+    width: 80%;
+  }
+
+  .footer{
+      margin-top: 60px;
+      background-color: #080808;
+      height: 150px;
+      color: #fff;
+  }
+  footer{
+      text-align: center;
+      font-size: 30px;
+      padding-top: 40px;
+      font-family: cursive;
+  }
+  .year{
+      color: red;
+  }
+  footer p{
+      color: #ccffff;
+      text-align: center;
+      font-family: monospace;
+  }
