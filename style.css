@@ -1,0 +1,71 @@
+body{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Play', sans-serif;
+    margin: 0%;
+}
+.container{
+
+    display: flex;
+    margin-left: 5%;
+}
+
+.about-left{
+    width: 50%;
+}
+.about-section{
+
+    margin-top: 1%;
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 60px;
+    border-left: 5px solid;
+    border-radius: 15px;
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+    padding-left: 15px;
+}
+.orange{
+    color: orange;
+}
+p{
+    text-align: justify;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 40px;
+}
+.link_button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 13px 45px;
+    border-radius: 5px;
+    background-color: rgb(238, 103, 79);
+}
+.scroll{
+    font-size: 18px;
+    color: black;
+    margin-top: 6%;
+}
+a:hover {
+    color: rgb(243, 241, 241);
+    background-color: green;
+ 
+  }
+.image-right{
+    width: 50%;
+}  
+.image-right img{
+
+    width: 70%;
+    padding-left: 15%;
+    padding-top: 3%;
+}
+
+.mission_title{
+    font-size: 60px;
+    text-align: center;
+}
+
