@@ -70,7 +70,7 @@ a:hover {
 }
 
 .mission_title{
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
 
@@ -122,14 +122,16 @@ padding-left: 6%;
     font-size: 16px; 
 }
 .coding-sec{
- margin-bottom: 100px;
+ margin-bottom: 70px;
 }
 .coding{
     width: 50%;
     
 }
 .coding img{
-    width: 80%;
+    width: 90%;
+    border-radius: 15px;
+    margin-top: 5%;
     
 }
 .develop{
@@ -139,7 +141,7 @@ padding-left: 6%;
 
 .develop h1{
 
-    font-size: 45px;
+    font-size: 40px;
 }
 .develop p{
 
@@ -150,7 +152,7 @@ padding-left: 6%;
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding: 13px 45px;
+    padding: 13px 30px;
     border-radius: 5px;
     background-color: rgb(238, 103, 79);
     
@@ -163,22 +165,22 @@ padding-left: 6%;
 
   .global{
 
-    width: 65%;
+    width: 60%;
   }
   .global h1{
-    font-size: 45px;
+    font-size: 40px;
 
   }
   .global p{
 
     font-size: 18px;
-    padding-right: 15%;
+    padding-right: 12%;
   }
   .global a{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding: 13px 45px;
+    padding: 13px 30px;
     border-radius: 5px;
     background-color: rgb(238, 103, 79);
     
@@ -189,20 +191,16 @@ padding-left: 6%;
  
   }
   .global-img{
-
     width: 40%;
   }
   .global-img img{
-
-    width: 80%;
+    margin-top: 6%;
+    width: 90%;
+    border-radius: 15px;
   }
 
-.surokkha-sec{
-
-    
-}
 .app_title{
-
+    margin-top: 70px;
     font-size: 50px;
     text-align: center;
 }
@@ -236,19 +234,19 @@ padding-left: 6%;
 }
 
 .surokkha-details a{
-
     margin-left: 6%;
+    padding: 10px 25px;
 }
   .footer{
       margin-top: 60px;
       background-color: #080808;
-      height: 150px;
+      height: 130px;
       color: #fff;
   }
   footer{
       text-align: center;
       font-size: 30px;
-      padding-top: 40px;
+      padding-top: 20px;
       font-family: cursive;
   }
   .year{
