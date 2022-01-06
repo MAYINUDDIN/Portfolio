@@ -39,7 +39,7 @@ p{
 .link_button{
     text-decoration: none;
     color: white;
-    font-weight: bold;
+    
     padding: 13px 45px;
     border-radius: 5px;
     background-color: rgb(238, 103, 79);
@@ -197,6 +197,48 @@ padding-left: 6%;
     width: 80%;
   }
 
+.surokkha-sec{
+
+    
+}
+.app_title{
+
+    font-size: 50px;
+    text-align: center;
+}
+  .surokkha-image{
+    width: 40%;
+  }
+
+  .surokkha-image img{
+     width: 70%;
+     padding-left: 20%;
+     padding-bottom: 5%;
+  }
+
+.surokkha-details{
+  
+    width: 60%;
+    margin-top: 5%;
+
+}
+
+.surokkha-details h2{
+
+    font-size: 40px;
+}
+
+
+.surokkha-details p{
+
+    padding-left: 6%;
+    padding-right: 15%;
+}
+
+.surokkha-details a{
+
+    margin-left: 6%;
+}
   .footer{
       margin-top: 60px;
       background-color: #080808;
